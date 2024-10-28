@@ -1,2 +1,2 @@
 # Rock_paper_scissor
-Kő papír olló játék | HTMl CSS JAVASCRIPT
+Rock paper scissors game | HTMl CSS JAVASCRIPT
